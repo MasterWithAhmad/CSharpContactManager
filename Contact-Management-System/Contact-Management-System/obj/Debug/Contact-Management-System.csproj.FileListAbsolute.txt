@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\bin\Debug\Contact-Management-System.exe.config
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\bin\Debug\Contact-Management-System.exe
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\bin\Debug\Contact-Management-System.pdb
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact-Management-System.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact_Management_System.MainForm.resources
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact_Management_System.Properties.Resources.resources
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact-Management-System.csproj.GenerateResource.cache
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact-Management-System.exe
+C:\Users\Ahmad\Downloads\Contact-Management-System\Contact-Management-System\obj\Debug\Contact-Management-System.pdb
